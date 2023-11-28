@@ -6,10 +6,6 @@ Quintern is a platform designed to assist users in finding their ideal internshi
 
 # LINK: https://atifahmd1.github.io/Quintern/
 
-# Design Choices
-
-# User Interface
-
 # Minimalistic Design:
 
 We opted for a clean and minimalistic UI to ensure a user-friendly experience. This includes a simple navigation menu, concise text, and visually appealing elements.
@@ -29,12 +25,7 @@ Built the frontend using HTML for structure, CSS for styling, and JavaScript for
 
 # Challenges Faced
 
-# Responsive Design
-
-# Cross-Device Compatibility:
-
-Ensuring consistent user experience across various devices and screen sizes posed a challenge during development.
-Integration of External Libraries
+Cross-Device Compatibility: Ensuring consistent user experience across various devices and screen sizes posed a challenge during development.
 
 # Learning Curve:
 
